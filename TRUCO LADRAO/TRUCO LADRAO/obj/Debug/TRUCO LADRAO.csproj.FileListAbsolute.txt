@@ -1,0 +1,26 @@
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.pdb
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\Viotti\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.pdb
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.pdb
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.pdb
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe.config
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.exe
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\bin\Debug\TRUCO LADRAO.pdb
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csproj.AssemblyReference.cache
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.csproj.CoreCompileInputs.cache
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.exe
+C:\Users\muril\Desktop\Facul\EC 1\N2B2 - Ec1\TRUCO LADRAO\TRUCO LADRAO\obj\Debug\TRUCO LADRAO.pdb
